@@ -98,7 +98,7 @@ export const projects = [
       "NPM",
       "Vercel",
     ],
-    liveLink: "https://password-generator-ochre.vercel.app/",
+    liveLink: "https://developer-portfolio-wheat-nine.vercel.app/",
     github: "https://github.com/pratik-hole-321/password-generator",
     status: "In Progress",
   },
