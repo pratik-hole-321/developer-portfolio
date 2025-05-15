@@ -99,7 +99,7 @@ export const projects = [
       "Vercel",
     ],
     liveLink: "https://developer-portfolio-wheat-nine.vercel.app/",
-    github: "https://github.com/pratik-hole-321/password-generator",
+    github: "https://github.com/pratik-hole-321/developer-portfolio",
     status: "In Progress",
   },
   ,
