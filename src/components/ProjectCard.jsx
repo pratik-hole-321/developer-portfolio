@@ -48,6 +48,7 @@ const ProjectCard = () => {
             <div className="w-40% flex justify-between flex-wrap my-4">
               <a
                 href={project.github}
+                target="_blank"
                 className="mx-5  hover:text-blue-500 bg-blue-500/10
                  rounded-full hover:bg-blue-500/10
                  shadow-[0_2px_8px_rgba(59,130,246,0.2)]
@@ -57,6 +58,7 @@ const ProjectCard = () => {
               </a>
               <a
                 href={project.liveLink}
+                target="_blank"
                 className=" hover:text-blue-500 bg-blue-500/10
                  rounded-full hover:bg-blue-500/10
                  shadow-[0_2px_8px_rgba(59,130,246,0.4)]
