@@ -232,10 +232,10 @@ export const projects = [
       to automatically generate study flashcards from user-provided content. Helps\
       learners quickly convert text into question-answer flashcards for effective\
       revision and personalized learning.",
-    tech: ["Nextjs", "React", "Tailwind", "Chat GPT API"],
-    liveLink: "#",
-    github: "#",
-    status: "Upcoming",
+    tech: ["Nextjs", "React", "typeScript", "Tailwind", "Gemini API"],
+    liveLink: "https://smart-study-ai-seven.vercel.app/",
+    github: "https://github.com/pratik-hole-321/Smart-Study-AI",
+    status: "In Progress",
   },
   // {
   //   title: "Custom Hooks - Npm Package",
